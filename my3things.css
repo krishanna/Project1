@@ -1,0 +1,75 @@
+body { 
+	background-color: #FCEBB6;
+	background-image: url(images/miniflower.jpeg);
+	font-family: Arial, sans-serif; 
+
+}
+
+#wrapper { 
+	background-color: darkcyan;
+	margin: auto;
+	width: 75%;
+	min-width: 700px;
+	max-width: 1024px;
+
+} 
+img {
+	padding: 0;
+	height=400
+        width=600
+	margin: 10px;
+	border: 10px solid #080E0E;
+	width: 60%;
+	
+}
+ 
+title { background-color: #056563; 
+		 text-align: center; 
+		 padding: 5px;
+		 font-family: fantasy;
+		 padding: 5pxs ;
+}
+h1 { 
+	font-size: 4em; 
+	letter-spacing: .2em;
+	text-align: center;
+	color: black; 
+	font-weight: normal;
+	text-shadow: 3px 3px 3px;
+	padding: 5px;
+}
+h2 { 
+	color: #080E0E; 
+	text-align: center;
+	
+}
+nav { 
+	font-weight: bold; 
+	text-align: center;
+	font-size: 1.5em;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #056563;
+	border-bottom: 1px solid #056563;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: yellow;
+}
+main { 
+       padding: 2em;
+}
+.center {
+	text-align: center;
+}
+footer { 
+	background-color: #056563;
+  	font-size: small;
+	text-align: center;
+	padding: 1em;
+	border-top: 2px solid #fff;
+	color: #fff;
+}
+div {text-align: center;}
